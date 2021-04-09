@@ -1,0 +1,2 @@
+# DSN, DLC, and HFFN
+This repository contains our implementations of DSN with Dynamic Layer Customization (DLC), and Sijie Mai's implementation of HFFN.  HFFN and its utility functions are in `hffn.py` and `util_function.py`, DSN is in `dsn.py`, and general utilities are in `utils.py`. Please reach out with any questions you may have!  [abwilf@umich.edu](abwilf@umich.edu)
